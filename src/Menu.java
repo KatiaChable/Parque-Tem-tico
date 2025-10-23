@@ -6,7 +6,7 @@ public class Menu{
             System.out.println("3. Comprar premio");
             System.out.println("4. Establecer festivo");
             System.out.println("5. Salir");
-            System.out.println("Tu billetera ahora tiene" + billetera.getTickets() + " boletos");
+            System.out.println("Tu billetera ahora tiene " + billetera.getTickets() + " boletos");
             System.out.print("Opción: ");
     }
 
